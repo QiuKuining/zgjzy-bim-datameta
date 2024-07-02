@@ -44,6 +44,7 @@
                             <goal>xsd</goal>
                             <goal>jackson-reader</goal>
                             <goal>jackson-writer</goal>
+                            <goal>xdoc</goal>
                         </goals>
                     </execution>
                 </executions>

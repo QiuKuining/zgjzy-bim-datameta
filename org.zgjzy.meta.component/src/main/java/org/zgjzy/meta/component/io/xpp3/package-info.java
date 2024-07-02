@@ -1,4 +1,3 @@
-// CHECKSTYLE_OFF: RegexpHeader|LineLength
 /**
  * 模型元数据XML文件读写软件，代码产生由 <code>model-meta.mdo</code> 生成。
  * 内部XML处理使用了
